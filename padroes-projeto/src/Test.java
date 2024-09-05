@@ -1,4 +1,8 @@
-package design.pattern.singleton;
+
+
+import design.pattern.singleton.SingletonEager;
+import design.pattern.singleton.SingletonLazy;
+import design.pattern.singleton.SingletonLazyHolder;
 
 public class Test {
 
